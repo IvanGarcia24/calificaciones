@@ -1,0 +1,12 @@
+
+.resultado{
+    border-style: inset;
+    border-color: black;
+    border-width: 2px;
+    padding-left: 5px;
+}
+
+#resultado{
+  font-weight: bold;
+
+}
